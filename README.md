@@ -1,6 +1,6 @@
 <div align="center">
 
-![Rodrigo Sandoval — Ingeniero en Informática](./assets/banner.svg?v=27051fc)
+![Rodrigo Sandoval — Ingeniero en Informática](./assets/banner.png)
 
 ### Soluciones digitales que simplifican el trabajo de las personas.
 
