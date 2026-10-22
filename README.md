@@ -6,7 +6,7 @@
 
 Desarrollo web · Soporte TI · Infraestructura
 
-[![Portafolio](https://img.shields.io/badge/VER_PORTAFOLIO-0f172a?style=for-the-badge&logo=github&logoColor=5eead4)](https://github.com/TATAPIERCE-dev/Portafolio-v2)
+[![Portafolio](https://img.shields.io/badge/VER_PORTAFOLIO-0f172a?style=for-the-badge&logo=github&logoColor=5eead4)](https://portafolio-rodrigo-sa-bri.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/rodrigo-sandoval-briones/)
 [![Email](https://img.shields.io/badge/CONVERSEMOS-115e59?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rsandovalbriones@gmail.com)
 
@@ -73,7 +73,7 @@ Sistema interno de gestión y seguimiento de tickets, clientes y reportes, acomp
 
 **AdonisJS · React · Inertia · TypeScript · PostgreSQL · Docker**
 
-📌 Puedes conocer más de este proyecto en mi [portafolio](https://github.com/TATAPIERCE-dev/Portafolio-v2).
+📌 Puedes conocer más de este proyecto en mi [portafolio](https://portafolio-rodrigo-sa-bri.vercel.app/).
 
 ## 🌱 En qué estoy enfocado
 
